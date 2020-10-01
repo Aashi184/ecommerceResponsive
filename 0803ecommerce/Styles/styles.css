@@ -109,6 +109,13 @@ button, input {
 
 button, html input[type=button], input[type=reset], input[type=submit] {
   -webkit-appearance: button;
+  font-size: 22px;
+	font-weight: bold;
+	color: #fff;
+	background-color: #10cd1a;
+	padding: 8px 16px;
+	border: 1px solid #10cd1a;
+	border-radius: 8px;
   cursor: pointer;
 }
 
